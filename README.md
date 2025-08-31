@@ -12,8 +12,6 @@ O objetivo do projeto é praticar conceitos fundamentais da linguagem Java, como
 - Uso de `ArrayList`  
 - Entrada de dados com `Scanner`  
 
----
-
 ## ⚙️ Funcionalidades
 - **Adicionar Produto**: cadastra um produto com **ID, nome e preço**.  
 - **Listar Produtos**: exibe todos os produtos cadastrados.  
@@ -22,15 +20,13 @@ O objetivo do projeto é praticar conceitos fundamentais da linguagem Java, como
 - **Sair**: finaliza o sistema.
 
 
-#🛠️ Tecnologias utilizadas
-
-! [[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+#🛠️ Linguagens e tecnologias utilizadas:
+*[Java]*
 
 **ArrayList**
 
 **Scanner**
 
---
 
 ## 🖥️ Exemplo de uso
 ```bash
