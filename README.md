@@ -1,6 +1,6 @@
-# 📦 Sistema de Gerenciamento de Produtos (CRUD em Java)
+# 📦 Sistema de Gerenciamento de Produtos (CRUD Java)
 
-## 📌 Descrição
+## Descrição
 Este projeto é um sistema simples de gerenciamento de produtos desenvolvido em **Java**.  
 Ele permite realizar operações de **CRUD (Create, Read, Update, Delete)** utilizando uma lista dinâmica (`ArrayList`) para armazenar os produtos.  
 
